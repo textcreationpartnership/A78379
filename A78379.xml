@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The causes and manner of deposing a popish king in Swedeland, truely described</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78379</idno>
+            <idno type="STC">Wing C1536</idno>
+            <idno type="STC">ESTC R229281</idno>
+            <idno type="EEBO-CITATION">99896983</idno>
+            <idno type="PROQUEST">99896983</idno>
+            <idno type="VID">136314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2455:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The causes and manner of deposing a popish king in Swedeland, truely described</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Baldwin in the Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sweden --  History --  Charles XI, 1660-1697 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:136314:1"/>
+            <head>The Cauſes and Manner of Depoſing a Popiſh King in <hi>Swedeland,</hi> Truely Deſcribed.</head>
+            <p>
+               <hi>G<g ref="char:V">Ʋ</g>ſtavus Ericſon</hi> King of <hi>Swedeland,</hi> having ſetled the Reformed Religion in <hi>Swedeland,</hi> and Reign'd Thirty Eight Years, left his Kingdom to his Son <hi>Erick,</hi> who, for his Cruelty and III Government was De<g ref="char:EOLhyphen"/>pos'd, and his whole Line Exhereditated, to make way for <hi>John</hi> Duke of <hi>Finland</hi> his Younger Brother.</p>
+            <p>
+               <hi>John</hi> had a Son call'd <hi>Sigiſmond, who being ſecretly Bred up in the</hi> Romiſh <hi>Re<g ref="char:EOLhyphen"/>ligion by his Mother,</hi> who was of the <hi>Sagellonian</hi> Royal Family of <hi>Poland,</hi> was in his Fathers time Elected King of <hi>Poland.</hi>
+            </p>
+            <p>The ſaid King <hi>John</hi> had alſo a Younger Brother, call'd <hi>Charles</hi> Duke of <hi>Suder<g ref="char:EOLhyphen"/>mania Nericia, &amp;c.</hi> and a Younger Son of his own Name, call'd Duke of <hi>Oſtrogothia.</hi>
+            </p>
+            <p>King <hi>John</hi> Dyed in the Year 1592, in the abſence of King <hi>Sigiſmond</hi> his Eldeſt Son: During which, <hi>Charles</hi> Duke of <hi>Sudermania</hi> his Uncle, <hi>at the deſire of the States, took upon him the Government:</hi> But ſent to Invite his Nephew <hi>Sigiſmond,</hi> to come and take Poſſeſſion of his Native Kingdom as ſoon as might be: Pro<g ref="char:EOLhyphen"/>miſing in the mean time to keep all quiet, and intimating, that he hop'd his Ma<g ref="char:EOLhyphen"/>jeſty when in Poſſeſſion, would Maintain all in the True Religion and Divine Worſhip, and Preſerve the Laws of <hi>Swedeland.</hi>
+            </p>
+            <p>At the end of the Year he arriv'd in <hi>Swedeland,</hi> having in his Company <hi>Franceſco Maleſpina</hi> the Pope's Legate, <hi>who hindred him long from conſenting to any Security, either for Religion or Property, but finding the Coronation would be obſtructed without that; he gave way, as having yet</hi> (as the Hiſtorian ſays) <hi>one ſtarting hole remaining, which was, that Faith was not to be kept towards Hereticks.</hi> In the mean time, he himſelf would have Crown'd the King in the Cathedral at <hi>
+                  <g ref="char:V">Ʋ</g>pſal,</hi> but was oppos'd by the Arch-Biſhop of <hi>
+                  <g ref="char:V">Ʋ</g>pſal,</hi> whoſe Right it was, even if that Kingdom had been Popiſh.</p>
+            <p>The Coronation being over, which had been delay'd above a Year, during which time, ſeveral ſecret Attempts had been made upon <hi>Charles</hi> Duke of <hi>Sudermania</hi> to make him away. <hi>King</hi> Sigiſmond <hi>contrary to his Coronation Oath, Erected a Popiſh Church in the Capital City: Made a Great Man of his Religion Governour of the Caſtle of</hi> Stockholme, <hi>in which the Records of the Chancery, and the Arms and Am<g ref="char:EOLhyphen"/>munition of the Kingdom were kept, and in the Port were the beſt part of the Royal Navy under Command of the Caſtle.</hi>
+            </p>
+            <p>
+               <hi>A</hi> certain <hi>Jeſuit</hi> call'd <hi>Adam Steinhall,</hi> obtain'd the <hi>Arcentian</hi> Temple, and the Queen's Iſland, with the <hi>Vaſtheman</hi> Monaſtery, which was preſently fill'd with <hi>Romiſh</hi> Prieſts.</p>
+            <p>Sigiſmond <hi>alſo by his Followers and Attendants, continually affronted the Eſta<g ref="char:EOLhyphen"/>bliſhed Religion, and was ſending into</hi> Poland, <hi>for a Body of Forces able to ſubdue the Kingdom,</hi> upon which Diſcontents grew ſo high, that he haſtily withdrew thither himſelf.</p>
+            <p>
+               <hi>He left</hi> Sweden <hi>in confuſion,</hi> having only for Forms ſake, writ to his Uncle <hi>Charles</hi> to aſſume the Adminiſtration jointly with the Senate: But at the ſame time, leaving others with greater Power both in <hi>Swedeland</hi> and <hi>Finland,</hi> as appear'd when he was gone.</p>
+            <p>Charles <hi>Duke of</hi> Sudermania, <hi>to avoid Diſcord and Confuſion, call'd a Convention at</hi> Sudertopia, which was open'd with an Oath of Allegiance to King <hi>Sigiſmond,</hi> and did likewiſe aſſert the Kingdoms Right, to have the Coronation Oath per<g ref="char:EOLhyphen"/>form'd, <hi>which having been violated in the tender point of Religion, they redreſs'd the Grievance, and ſuppreſs'd the exerciſe of the</hi> Romiſh <hi>Religion. Baniſhing all Prieſts and Preachers of the ſame, and the Antient Incumbents of the</hi> Vaſtheman <hi>Monaſtery were Reſtor'd.</hi>
+            </p>
+            <p>
+               <hi>Then they deſir'd the Duke</hi> Charles <hi>to accept of the Adminiſtratian, for the good of the Kingdom, which he did. Then began a Treaty between</hi> Sigiſmond <hi>and the Convention, with Duke</hi> Charles <hi>at the head of it, which was by</hi> Sigiſmond <hi>ſpun out and obſtructed with much Artifice, at length the Convention made ſeveral Decrees for ſecurity of Religion and Property, and entred into an Aſſociation for the Defence of
+<pb facs="tcp:136314:2" rendition="simple:additions"/>them, which they deſired the King to confirm, and gave ſix weeks time to all that Diſ<g ref="char:EOLhyphen"/>ſented, to ſubmit, on pain of being declared Enemies to the Publick Peace.</hi>
+            </p>
+            <p>They Invited him home, to return in a peaceable Manner, and ſettle the other Affairs of his Native Kingdom, but inſtead <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that, he Invaded them with an Army of Eight Thouſand Horſe and Foot, and a hundred Sail, to which ſeve<g ref="char:EOLhyphen"/>ral <hi>Sweeds</hi> joyn'd themſelves, whom he had gained with Mony.</p>
+            <p>An Agreement was endeavour'd, and after much intercourſe of Negotiation, both Armies being near one another, it was conſented to on both ſides, that twelve of the Nobility of each ſide, ſhould meet and decide the whole Contro<g ref="char:EOLhyphen"/>verſie. But by the perſwaſion of the Jeſuits, the Royal Army in the Night, con<g ref="char:EOLhyphen"/>ducted by <hi>Weyerus,</hi> ſet upon the Ducal Camp; in which onſet, ſeveral thouſands were ſlain, but at laſt the King and all his Army had been cut off, had they not call'd out for Peace, which the Duke yet harkened to.</p>
+            <p>An Agreement followed, in which, the King demanded to be ſupplyed with a Navy to go to <hi>Stockholm,</hi> promiſing there to call an Aſſembly of the States, but he no ſooner had the Shipping, but he Sayl'd away for <hi>Calmar,</hi> in which place he left a Garriſon of Foreigners, and then continued his Voyage to <hi>Dantſick.</hi>
+            </p>
+            <p>The King being gone, an Aſſembly of the States met at <hi>Stockholme,</hi> where they Declared King <hi>Sigiſmond</hi> fallen from the Crown and Government, and were ſo enclined to continue the Succeſſion, that they offered to receive his Son Prince <hi>Vladiſlaus,</hi> provided he might be ſent home, bred up a Proteſtant, and committed to the Guardianſhip of Duke <hi>Charles,</hi> but <hi>Sigiſmond</hi> refuſed it.</p>
+            <p>Afterwards another Parliament met at <hi>Lincopia,</hi> and there they firſt did expreſly renounce King <hi>Sygiſmond</hi> and his Government, as alſo his Laws.</p>
+            <p>Then they acknowledged Duke <hi>Charles</hi> of <hi>Sudermania</hi> for their Lawful King, and after him, ſettled the Crown upon his Son <hi>Guſtavus Adolphus,</hi> and his Heirs Male.</p>
+            <p>Duke <hi>John</hi> concurred with the Parliament, and renounc'd his pretence to the Crown, and was content to come in after the Line of Duke <hi>Charles.</hi>
+            </p>
+            <p>The Daughter and Siſter of <hi>Sigiſmond</hi> were alſo rejected.</p>
+            <p>Then followed the Coronation of King <hi>Charles,</hi> in the Year 1607. by the Name of <hi>Charles</hi> the Ninth.</p>
+            <p>Theſe were the Proceedings in <hi>Sweden,</hi> whereupon I ſhall only make theſe few ſhort Reflections.</p>
+            <p n="1">I. That the <hi>Swedes</hi> were deſirous to the laſt Degree, to preſerve the Succceſſion according to one part of the Laws of the Kingdom, provided that might be done without overturning all the reſt, they were wiſe enough to preſerve Laws, while Laws preſerved the Nation, which is the true end of all Laws, but no longer.</p>
+            <p n="2">II. That King <hi>Sigiſmond</hi> according to the Spirit of his Religion, where ever it is grown up to Bigottry, broke thorow his Oaths, and all Rules of Juſtice and Morality, when they croſſed the Inſatiable Ambition of his Prieſts.</p>
+            <p n="3">III. That tho' the <hi>Swedes,</hi> when they found that they could not keep their King, his direct Heirs, their Religion and Liberties all together, reſolved to part with the former, but were forced to be very cautious, and endeavour to gain time by Treaties, to unite themſelves againſt <hi>Sigiſmond,</hi> who had <hi>Poland</hi> and ſeveral Allies to back him, without which Conſiderations, the Prudence they ſhewed on this Affair, may aſſure us, they would not have ſuffered the Government in ſo looſe a Poſture, ſo long as they did.</p>
+            <p n="4">IV. That the <hi>Swedes</hi> knowing, that it is impoſſible on any occaſion, that all Men ſhould be of the ſame Minde, wiſely ordained, that the Minor part ſhould ſubmit to the Major, or be declared Enemies to the Publick Peace. And ſure this Example will be followed, where ever Reaſonable and Diſintereſſed Men meet on the like Occaſions, for ſure no Body can deny, but that it is better for any Nation, that ſome Laws ſhould be made and others broken, againſt the Opinion of the Minor part, than that all Laws, Morality, and Good Nature, ſhould give place to paſ<g ref="char:EOLhyphen"/>ſion, Injuſtice and Cruelty thorow their obſtinancy.</p>
+            <p>Now may God Almighty open the Eyes of all <hi>Engliſh-men</hi> to ſee, and their Hearts to Embrace this Truth.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Baldwin</hi> in the <hi>Old Baily,</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
